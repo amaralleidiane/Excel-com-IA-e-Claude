@@ -1,0 +1,8 @@
+{
+  "name": "Dashboard da Porsche com Agentes de IA",
+  "description": "Dashboard executiva da Porsche com planilhas de dados, valores de veículos, análises financeiras e métricas de vendas globais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
